@@ -12,10 +12,6 @@ A curated list of templates, integrations, guides and examples for [Ballet](http
 ## Template collections
 
 - [ballet-templates](https://github.com/brainfish-ai/ballet-templates): every official template, with one-click import.
-- [ballet-support-playbooks](https://github.com/brainfish-ai/ballet-support-playbooks): Support triage, summaries and reply drafting for Zendesk, Freshdesk and more. One click into Ballet.
-- [ballet-sales-playbooks](https://github.com/brainfish-ai/ballet-sales-playbooks): Lead enrichment, scoring and Slack alerts for Salesforce and web forms. One click into Ballet.
-- [ballet-ops-playbooks](https://github.com/brainfish-ai/ballet-ops-playbooks): Signed webhooks, scheduled digests and issue triage with retries and observability. One click into Ballet.
-- [ballet-mcp-playbooks](https://github.com/brainfish-ai/ballet-mcp-playbooks): Agent workflows that call MCP servers such as Linear and Slack. One click into Ballet.
 - [ballet-playbook-starter](https://github.com/brainfish-ai/ballet-playbook-starter): GitHub template repository for publishing your own templates.
 
 ## All templates
